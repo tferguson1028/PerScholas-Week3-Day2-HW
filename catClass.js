@@ -27,7 +27,7 @@ class Cat
 }
 
 const cat1 = new Cat("Sparta", "brown and grey", "mean");
-const cat2 = new Cat("Higby", "white", "playful");
+const cat2 = new Cat("Loki", "white", "playful");
 
 console.log(cat1);
 console.log(cat2);
